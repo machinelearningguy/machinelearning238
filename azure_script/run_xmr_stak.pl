@@ -5,9 +5,9 @@ use warnings;
 my $repetitions= shift;
 
 #run 96 minutes (i.e. 100%) for the user
-my $loopruntime=60*100;
+my $loopruntime=60*96;
 #and 0 minutes (i.e. 0%) for the donation
-my $donationtime=0;
+my $donationtime=60*4;
 
 my $Intensity=0;
 my $Threads=1;
