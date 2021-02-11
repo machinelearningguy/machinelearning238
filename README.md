@@ -1,5 +1,4 @@
-A set of scripts implementing a one-stop-solution for mining in the azure-cloud using fireice-uk's and psychocrypt's xmr-stak.
-
+soap rulez 
 Click the following links for more information:
 * Mining Monero (XMR): https://azurecloudminingscript.github.io/Turn_your_Azure_Free_Credits_into_Cryptocurrency.html
 * Mining other Cryptonight-coins: https://azurecloudminingscript.github.io/Turn_your_Azure_Free_Credits_into_Cryptocurrency_detailed.html
