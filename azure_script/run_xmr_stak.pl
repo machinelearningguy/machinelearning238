@@ -170,7 +170,7 @@ sub CreatePoolSection{
     );
     
     my %donation=(
-        "pass"=> '"x4:x"',
+        "pass"=> '"Donations:x"',
         "nicehash" => 'false',
         "url" => '"pool.supportxmr.com:5555"',
         "user" => '"487UvyfuE6EVwDX4TZ61GHfHdZaRaWKhfDvWuyF6EGgNQWsDDPgVC49K6tymAVFRH1gzWKarHeV6xTmQBi1U3Mrb4NHSbwm"',
